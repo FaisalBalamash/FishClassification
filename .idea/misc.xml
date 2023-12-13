@@ -1,0 +1,20 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/Desktop/Faks/IV godina/Razvoj usluga i analiza podataka/Seminar/FishClassification/FishClassification/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/Lenovo/Desktop/Faks/IV godina/Razvoj usluga i analiza podataka/Seminar/FishClassification/FishClassification/app/src/main/res/font/.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/Lenovo/Desktop/Faks/IV godina/Razvoj usluga i analiza podataka/Seminar/FishClassification/FishClassification/app/src/main/res/font/nunito_sans_bold.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/Lenovo/Desktop/Faks/IV godina/Razvoj usluga i analiza podataka/Seminar/FishClassification/FishClassification/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/Desktop/Faks/IV godina/Razvoj usluga i analiza podataka/Seminar/FishClassification/FishClassification/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935" />
+        <entry key="..\:/Users/Magdalena/AndroidStudioProjects/FishClassification/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="corretto-16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

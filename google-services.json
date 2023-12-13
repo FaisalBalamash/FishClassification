@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244460453138",
+    "project_id": "cpit498-51677",
+    "storage_bucket": "cpit498-51677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244460453138:android:8939e8460d80e6c49d47cb",
+        "android_client_info": {
+          "package_name": "com.example.fishclassification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnkixLjrvKwTN-YM_2j42wl6d5upB5PoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
